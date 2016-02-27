@@ -1,0 +1,28 @@
+name: ito
+favicon: null
+layout_spectrum: 0.7271863885689527
+typography_spectrum: 0.6428498164750636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.772837990662083
+  lightness: 0.04971313942223787
+  saturation: 0.6236066112760454
+  rhythmicContrast: 0.9870645860210061
+purpose: []
